@@ -1,3 +1,5 @@
+package Lec05
+
 fun judgeNumber(number: Int) {
     when (number) {
         1, 0, -1 -> print("10-1")

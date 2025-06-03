@@ -1,3 +1,5 @@
+package Lec02
+
 import com.lannstark.lec02.Person
 
 fun main() {

@@ -1,3 +1,5 @@
+package Lec08
+
 fun main() {
     repeat("hello world")
 

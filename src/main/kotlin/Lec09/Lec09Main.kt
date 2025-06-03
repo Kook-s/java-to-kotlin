@@ -1,3 +1,5 @@
+package Lec09
+
 public class Person (
     name :String,
     var age:Int

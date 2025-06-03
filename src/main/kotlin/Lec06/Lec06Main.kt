@@ -1,3 +1,5 @@
+package Lec06
+
 fun main() {
 
     val numbers = listOf(1L, 2L, 3L)
